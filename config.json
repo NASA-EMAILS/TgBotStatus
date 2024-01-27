@@ -1,0 +1,19 @@
+{
+  "bots": {
+    "bot1": {
+      "base_url_of_bot": "http://0.0.0.0",
+      "host": "HK",
+      "bot_uname": "@MirLeechX_01Bot"
+    },
+    "bot2": {
+      "host": "HK",
+      "bot_uname": "@MirLeechX_02Bot"
+    }
+  },
+  "channels": {
+    "chat1": {
+      "chat_id": "-1001519021627",
+      "message_id": "226"
+    }
+  }
+}
