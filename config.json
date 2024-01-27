@@ -1,7 +1,7 @@
 {
   "bots": {
     "bot1": {
-      "base_url_of_bot": "http://0.0.0.0",
+      "base_url_of_bot": "",
       "host": "HK",
       "bot_uname": "@MirLeechX_01Bot"
     },
