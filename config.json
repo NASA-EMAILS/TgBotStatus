@@ -8,6 +8,22 @@
     "bot2": {
       "host": "HK",
       "bot_uname": "@MirLeechX_02Bot"
+    },
+    "bot3": {
+      "host": "HK",
+      "bot_uname": "@MirLeechX_03Bot"
+    },
+    "bot4": {
+      "host": "HK",
+      "bot_uname": "@MirLeechX_04Bot"
+    },
+    "bot5": {
+      "host": "HK",
+      "bot_uname": "@MirLeechX_05Bot"
+    },
+    "bot6": {
+      "host": "HK",
+      "bot_uname": "@MirLeechX_06Bot"
     }
   },
   "channels": {
